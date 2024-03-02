@@ -1,0 +1,114 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.earth{
+  height: 24px;
+  filter: invert(1);
+  
+  
+}
+.head-text{
+font-size: 14.46px;
+color: white;
+margin:10px;
+display: flex;
+align-items: center;
+font-family: "Inter";
+font-style: normal;
+
+
+}
+.header{
+  width: 750px;
+  height: 55px;
+  background-color: #F55A5A;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+body{
+  display:flex;
+  justify-content: center;
+}
+.place-img{
+  width: 140px;
+  height: 190px;
+  border-radius: 5px;
+}
+.Card{
+  margin: 50px 40px 10px 40px; 
+  width:550px;
+  height: 210px;
+  display: flex;
+  }
+.google-maps-line{
+  color: #918E9B;
+  margin-left: 10px;
+  margin-top: 20px;
+  font-size: 12px;
+  font-family: "Inter";
+  text-decoration: underline;
+
+  
+}
+.first-text{
+margin-top: 18px;
+font-family: "Inter";
+letter-spacing: 2px;
+margin-left: 1px;
+
+}
+.location-pointer{
+  height: 13px;
+  width: 14px;
+  margin-top: 20px;
+  margin-left:0px;
+  margin-right: 0px;
+  
+}
+.location-name
+{
+  margin-top :10px;
+margin-left: 5px;
+  font-size: 15px;
+  font-family: "Inter";
+  ;
+}
+.top-line{
+  display: flex;
+  margin-left: 1;
+ }
+ .new{
+  display: flex;
+  margin-left: 10px;
+}
+.all{
+  display:flex;
+  flex-direction: column;
+  
+}
+.d-o-t{
+  font-family: "Inter";
+  font-size: small;
+  font-weight: bolder;
+  margin-top: 5px;
+  margin-left: 5px;
+
+}
+.info{
+  margin-top: 8px;
+  font-family: "Inter";
+  font-size: 13.5px;
+  line-height: 19px;
+  margin-left: 5px;
+}
+.line{
+  opacity: 0.5;
+  
+}
+a{
+  color: gray;
+}
